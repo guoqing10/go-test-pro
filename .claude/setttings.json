@@ -1,0 +1,8 @@
+
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://qweapi.com/",
+    "ANTHROPIC_AUTH_TOKEN": "sk-RL2EwtKsoOYRvxPw7Bh5WBrWgJ9NJ7lMq7vXzNLs0XDnIX3Z",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  }
+}
